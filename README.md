@@ -3,12 +3,12 @@
 #### we replace the accelerometer with a wheel encoder and present a method of using a low-cost camera and a gyroscope to estimate the robot's motion state. Compared with the traditional VIO system, the derivation of the motion state estimation proposed in this paper is more concise. Our algorithm based on the VINS-Mono has better real-time performance and is more suitable for embedded devices.
 
 <p align='left'>
-  <img src="./images/pic3.png" alt="drawing" height="470" width="800"/>
+  <img src="./images/pic3.png" alt="drawing" height="320" width="600"/>
 </p>
 
-<p align='left'>
+<!-- <p align='left'>
   <img src="./images/pic4.png" alt="drawing" height="280" width="600"/>
-</p>
+</p> -->
 
 
 <!-- <p align='center'>
