@@ -24,17 +24,19 @@ Jun Liu (Email: [1193868236@qq.com](1193868236@qq.com))
 
 ## BibTex Citation
 
-Thank you for citing our T-LOAM paper on [IEEE](https://ieeexplore.ieee.org/document/9446309)if you use any of this code: 
-@ARTICLE{9446309,
-  author={Zhou, Pengwei and Guo, Xuexun and Pei, Xiaofei and Chen, Ci},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={T-LOAM: Truncated Least Squares LiDAR-Only Odometry and Mapping in Real Time}, 
-  year={2021},
+Thank you for citing our paper if you use any of this code: 
+```
+@ARTICLE{1207,
+  author={Jun Liu, Jiajun Zhao, Xingye Fan},
+  journal={34th Chinese Control and Decison Conference}, 
+  title={Visual Odometry Tightly Coupled with Wheel Encoder and Gyroscope}, 
+  year={2022},
   volume={},
   number={},
-  pages={1-13},
-  doi={10.1109/TGRS.2021.3083606}
+  pages={},
+  doi={}
   }
+```
 
 ## Credits
 
