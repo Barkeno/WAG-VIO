@@ -47,3 +47,6 @@ We hereby recommend reading [VINS-Mono](https://github.com/HKUST-Aerial-Robotics
 The source code is released under [GPLv3](http://www.gnu.org/licenses/) license.
 
 I am constantly working on improving this code. For any technical issues or commercial use, please contact me(1193868236@qq.com).
+
+
+## macos 
